@@ -5,5 +5,4 @@ public class Hello {
         System.out.println("B21 we will make it ,future SDET's");
     }
 }
-//watching more movie in bedroom
-//ready to go back to living room
+//Movie seems nice who is the actor
