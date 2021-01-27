@@ -8,3 +8,4 @@ public class Hello {
 
 //watching movie on the phone
 //more watching for 20 min
+//final 10min before going back to living room
